@@ -6,7 +6,7 @@
 ```Bash
     $ ~ git clone https://github.com/lahatra3/programmer-day-cli.git
     $ ~ cd programmer-day
-    $ ~ npm i -g
+    $ ~ npm i && npm i -g
 ```
 Maintenant, vous avez le `iteams` CLI installer. 
 
